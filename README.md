@@ -1,7 +1,3 @@
-Here is your **original prompt (clean, unchanged):**
-
----
-
 **Prompt:**
 
 > I am preparing for an OCI (Oracle Cloud Infrastructure) role and want structured, interview-oriented notes.
